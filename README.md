@@ -1,0 +1,2 @@
+# vgdb
+Vainglory Database Project
