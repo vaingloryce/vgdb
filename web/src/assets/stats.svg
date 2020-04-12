@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-heroes">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="heroes" clip-path="url(#clip-heroes)">
+    <g id="Group_330" data-name="Group 330" transform="translate(-7 -442)">
+      <path id="Path_2" data-name="Path 2" d="M14.275,95.7h11.4a1.906,1.906,0,0,0,1.9-1.9V6.4a1.906,1.906,0,0,0-1.9-1.9h-11.4a1.906,1.906,0,0,0-1.9,1.9V93.8A1.906,1.906,0,0,0,14.275,95.7Z" transform="translate(50.258 462.84)" fill="#fff"/>
+      <path id="Path_3" data-name="Path 3" d="M7.525,58.249h11.4a1.906,1.906,0,0,0,1.9-1.9V22.15a1.906,1.906,0,0,0-1.9-1.9H7.525a1.906,1.906,0,0,0-1.9,1.9v34.2A1.906,1.906,0,0,0,7.525,58.249Z" transform="translate(34.209 500.288)" fill="#fff"/>
+      <path id="Path_4" data-name="Path 4" d="M21.049,68.948H32.4a1.916,1.916,0,0,0,1.924-1.924V17.674A1.916,1.916,0,0,0,32.4,15.75H21.049a1.916,1.916,0,0,0-1.924,1.924V67.025A1.916,1.916,0,0,0,21.049,68.948Z" transform="translate(66.308 489.588)" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M25.875,10.924v72.15A1.916,1.916,0,0,0,27.8,85H39.151a1.916,1.916,0,0,0,1.924-1.924V10.924A1.916,1.916,0,0,0,39.151,9H27.8A1.916,1.916,0,0,0,25.875,10.924Z" transform="translate(82.358 473.539)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

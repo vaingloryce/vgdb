@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+}
+
+.content-wrapper {
+  background: #171717;
+  width: calc(100vw - 110px);
+}
